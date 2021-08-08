@@ -1,0 +1,5 @@
+﻿  Final task.cpp
+C:\Users\持木浩太\Documents\3年前期\プログラミング演習Ⅱ\Final task\Final task\Final task.cpp(145,20): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+C:\Users\持木浩太\Documents\3年前期\プログラミング演習Ⅱ\Final task\Final task\Final task.cpp(286,20): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+C:\Users\持木浩太\Documents\3年前期\プログラミング演習Ⅱ\Final task\Final task\Final task.cpp(307,20): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+  Final task.vcxproj -> C:\Users\持木浩太\Documents\3年前期\プログラミング演習Ⅱ\Final task\Debug\Final task.exe
